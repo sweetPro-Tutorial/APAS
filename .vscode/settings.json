@@ -3,6 +3,7 @@
         "collector.h": "c"
     },
     "code-runner.executorMap": {
-        "c": "cd $dir && gcc -Wall -g -I. *.c -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+
+        "c": "cd $dir && gcc -Wall -g -I.:../inc *.c ../inc/*.c -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
     }
 }

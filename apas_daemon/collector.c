@@ -1,4 +1,5 @@
 #include "collector.h"
+#include "../inc/common.h"
 
 bool collector() {
     StringLong requestMessage = { 0, };
@@ -15,9 +16,10 @@ bool collector() {
 
     int result = system(command);  // 명령어 실행
     if(result == 0) {  
-        printf("\n>>> 데이터를 수신했습니다.\n");    
+        printWithTime(" >>> 데이터를 수신했습니다.");
         return true;
     }  
-    printf("\n>>> 데이터 수신에 실패했습니다.\n");
+    printWithTime(" >>> 데이터 수신에 실패했습니다.");
     return false;
+
 }
