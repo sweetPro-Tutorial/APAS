@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "collector.h": "c"
+    },
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc -Wall -g -I. *.c -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    }
+}
