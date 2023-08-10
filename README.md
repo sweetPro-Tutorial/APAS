@@ -4,12 +4,12 @@
 
 # Source Code 레포지토리 #2
 
-+ 레포지토리 #1 (APAS 외의 모든 소스 코드)
++ 레포지토리 #1 (APAS 시스템외의 모든 소스 코드)
 
   https://github.com/sweetPro-Tutorial/C-Masterclass/blob/master/README.md
-+ 레포지토리 #2 (APAS 용 소스 코드)
++ 레포지토리 #2 (APAS 시스템용 소스 코드)
 
-  https://github.com/sweetPro-Tutorial/APAS/tree/master/README.md
+  https://github.com/sweetPro-Tutorial/APAS/tree/master
 
 
 
