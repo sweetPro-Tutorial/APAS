@@ -11,13 +11,12 @@
 
 # Source Code 레포지토리 <span style="color:red">#2</span>
 
-+ 레포지토리 #1 (APAS 시스템외의 모든 소스 코드)
++ [레포지토리 #1 <-- APAS 시스템을 제외한 모든 소스 코드](https://github.com/sweetPro-Tutorial/C-Masterclass)
   
-  https://github.com/sweetPro-Tutorial/C-Masterclass
-  
-+ 레포지토리 #2 (APAS 시스템용 소스 코드)
-  
-  https://github.com/sweetPro-Tutorial/APAS
++ [레포지토리 #2 <-- APAS 시스템용 소스 코드 (here)](https://github.com/sweetPro-Tutorial/APAS)
+
++ [교보문고로 가기](https://search.kyobobook.co.kr/search?keyword=C%20%EA%B0%9C%EB%B0%9C%20%EB%A7%88%EC%8A%A4%ED%84%B0&gbCode=TOT&target=total)
+
 
 ---
 
