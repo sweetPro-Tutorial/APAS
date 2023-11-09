@@ -6,7 +6,9 @@
 사람들이 코딩을 배우는데 실패하는 99%의 이유는 튜토리얼의 지옥에 빠져 있기 때문입니다. 
 
 <b>"함께 무언가를 만들지 않는 튜토리얼은 반드시 피하십시오."</b>
-<br/><br/><br/>
+
++ [저자에게 책 내용 중 궁금한 부분을 물어보기](https://cafe.naver.com/ArticleList.nhn?search.clubid=31031000&search.menuid=5&search.boardtype=L)
+<br/><br/>
 
 ### C 개발 마스터클래스 1권과 2권의 소스 코드입니다. (레포지토리 #2)
 
